@@ -72,7 +72,7 @@ footer{
   width: 200px;
 }
 
-.pricing{
+.intro_header{
     min-height: 500px;
     display: flex;
     flex-wrap: wrap;
@@ -138,7 +138,7 @@ footer{
 }
 
 .gallery > img{
-  border: 10px brown solid;
+  border: 5px brown solid;
   margin: 10px;
   width: 300px;
 }
@@ -207,7 +207,7 @@ header{
   .gallery, #gallery{
     display: none;
   }
-  .pricing{
+  .intro_header{
     align-items: flex-start;
   }
 }

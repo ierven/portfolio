@@ -72,7 +72,7 @@ footer{
   width: 200px;
 }
 
-.intro_header{
+.intro{
     min-height: 500px;
     display: flex;
     flex-wrap: wrap;
